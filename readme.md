@@ -11,9 +11,9 @@
 
 ---
 ## Stack
-- :fire: Android Studio
-- :fire: Android SDK
-- :fire: Firebase Authentication и Realtime Database (авторизация пользователей и хранение данных)
-- :fire: Node.js (для работы с Firebase)
-- :fire: API
-- :fire: GitHub
+fire: Android Studio
+fire: Android SDK
+fire: Firebase Authentication и Realtime Database (авторизация пользователей и хранение данных)
+fire: Node.js (для работы с Firebase)
+fire: API
+fire: GitHub
